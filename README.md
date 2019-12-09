@@ -1,5 +1,6 @@
 # ConvDe-AliasingNet
 This is a testing and training code for ConvDe-AliasingNet：Model-based Convolutional De-Aliasing Network Learning for Parallel MR Imaging(MICCAI 2019)
+
 Our network refers to yangyan's admm-net.If you use this code,please cite these paper:
 
 [1] Chen Y., Xiao T., Li C., Liu Q., Wang S. (2019) Model-Based Convolutional De-Aliasing Network Learning for Parallel MR Imaging. In: Shen D. et al. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2019. MICCAI 2019. Lecture Notes in Computer Science, vol 11766. Springer, Cham
